@@ -1,6 +1,6 @@
 import { Button } from "@/components/ui/button";
 import bannerOne from "../../assets/banner1.PNG";
-import bannerTwo from "../../assets/banner2.JPG";
+import bannerTwo from "../../assets/banner2.PNG";
 import bannerThree from "../../assets/banner-3.webp";
 import {
   Airplay,
